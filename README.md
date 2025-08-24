@@ -5,7 +5,7 @@ This project demonstrates skills in React, API integration, responsive design, a
 
 ---
 
-# Features
+## Features
 
 Search News – Search for articles by keywords in real time
 
@@ -23,7 +23,7 @@ Error & Loading States – Smooth UX even on slow networks
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 Frontend: React (v19), JavaScript (ES6+)
 
@@ -39,7 +39,7 @@ Build Tool: Create React App
 
 ---
 
-# Getting Started
+## Getting Started
 
 Prerequisites
 
@@ -50,11 +50,11 @@ npm or yarn
 
 Installation
 
-# Clone the repository
-git clone https://github.com/yourusername/trend-news.git
-cd trend-news
+## Clone the repository
+git clone (https://github.com/Aroobadilshad/News-App-React.git)
+cd News-App-React
 
-# Install dependencies
+## Install dependencies
 npm install
 
 API Key Setup
@@ -71,7 +71,7 @@ REACT_APP_NEWS_API_KEY=your_api_key_here
 
 
 
-# Run Locally
+## Run Locally
 
 npm start
 
@@ -80,7 +80,7 @@ Visit http://localhost:3000 to view the app.
 
 ---
 
-# Project Structure
+## Project Structure
 
 src/
  ├── components/
@@ -96,7 +96,7 @@ src/
 
 ---
 
-# API Integration
+## API Integration
 
 Endpoints Used: Everything endpoint (search + categories)
 
@@ -107,9 +107,10 @@ Image Handling: Default image if article thumbnail is missing
 
 
 ---
+## Live Demo
+[View Site Live](https://aroobadilshad.github.io/News-App-React/)
 
-
-# Author
+## Author
 
 Developer: [Arooba Dilshad]
 
