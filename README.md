@@ -107,8 +107,7 @@ Image Handling: Default image if article thumbnail is missing
 
 
 ---
-## Live Demo
-[View Site Live](https://aroobadilshad.github.io/News-App-React/)
+
 
 ## Author
 
