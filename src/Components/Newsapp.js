@@ -11,8 +11,9 @@ const Newsapp = () => {
   const getData = async (query = search) => {
     try {
       const response = await fetch(
-     `https://cors-anywhere.herokuapp.com/https://newsapi.org/v2/everything?q=${query}&apiKey=${API_KEY}`
+       `https://cors-anywhere.herokuapp.com/https://newsapi.org/v2/everything?q=${query}&apiKey=${API_KEY}`
       );
+  
       const jsonData = await response.json();
       setNewsData(jsonData.articles);
     } catch (error) {
